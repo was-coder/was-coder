@@ -7,8 +7,8 @@ I am a Certified Software Engineer (B.Tech) that is proficient in various langua
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently a student at AltSchool Africa School of Engineering [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
-- 🌱 I’m currently learning JavaScript, Reactjs, Sass, Tailwind and much more.
+- 💡 Fun fact: I love teaching and watching football
+- 🌱 I’m currently learning JavaScript, Reactjs, Sass, Tailwind and much more at AltSchool Africa School of Engineering [School of Software Engineering](https://altschoolafrica.com/schools/engineering)..
 - 😊 I’m looking for opportunities to help contribute to open source projects.
 - 💼 Job interests: Software Engineer and Frontend Engineer
 - 📫 Contact me by emailing adelakunwasiu1000@gmail.com.
