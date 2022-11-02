@@ -5,8 +5,8 @@
 I am a Certified Software Engineer (B.Tech in Computer Science) with 3+ years of programming experience. I am proficient in various languages, a quick learner of the craft and have eyes for neat and well structured codes.
 
 <p align="center"> 
- <img src="https://img.shields.io/github/followers/was-coder?color=2396ED&label=Followers" alt="was-coder followers" width="30px" height="30px" />  
- <img src="https://img.shields.io/github/stars/was-coder?style=flat&color=2396ED" alt="was-coder stars" width="30px" height="30px" />  
+ <img src="https://img.shields.io/github/followers/was-coder?color=2396ED&label=Followers" alt="was-coder followers" width="40px" height="35px" />  
+ <img src="https://img.shields.io/github/stars/was-coder?style=flat&color=2396ED" alt="was-coder stars" width="40px" height="35px" />  
 </p>
 
 **Here's a quick summary about me**:
